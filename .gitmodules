@@ -1,0 +1,9 @@
+[submodule "Pro-iOS-Testing"]
+	path = Pro-iOS-Testing
+	url = git@github.com:c4arl0s/Pro-iOS-Testing.git
+[submodule "3-Writing-tests-The-Basics"]
+	path = 3-Writing-tests-The-Basics
+	url = git@github.com:c4arl0s/3-Writing-tests-The-Basics.git
+[submodule "2-Setting-Up-Our-Infrastructure"]
+	path = 2-Setting-Up-Our-Infrastructure
+	url = git@github.com:c4arl0s/2-Setting-Up-Our-Infrastructure.git
