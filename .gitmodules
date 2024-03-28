@@ -7,3 +7,9 @@
 [submodule "2-Setting-Up-Our-Infrastructure"]
 	path = 2-Setting-Up-Our-Infrastructure
 	url = git@github.com:c4arl0s/2-Setting-Up-Our-Infrastructure.git
+[submodule "7-User-Interface-Tests"]
+	path = 7-User-Interface-Tests
+	url = git@github.com:c4arl0s/7-User-Interface-Tests.git
+[submodule "7-Integration-Tests"]
+	path = 7-Integration-Tests
+	url = git@github.com:c4arl0s/7-Integration-Tests.git
