@@ -13,3 +13,6 @@
 [submodule "7-Integration-Tests"]
 	path = 7-Integration-Tests
 	url = git@github.com:c4arl0s/7-Integration-Tests.git
+[submodule "6-Write-Testable-Code"]
+	path = 6-Write-Testable-Code
+	url = git@github.com:c4arl0s/6-Write-Testable-Code.git
