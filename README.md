@@ -28,5 +28,5 @@ Project to learn and implement unit and UI testing over an iOS App.
 7. [ ] [7. User Interface Tests](https://github.com/c4arl0s/7-User-Interface-Tests?tab=readme-ov-file#7-user-interface-tests---content)
 8. [ ] 8. Cover Another Aspect of your App - Performance Testing
 9. [ ] 9. Snapshot Testing
-10. [ ] 10. Implement Tests in Our Daily Work Routine
+10. [ ] 10. [Implement Tests in Our Daily Work Routine](https://github.com/c4arl0s/10-Implement-Tests-in-Our-Daily-Work-Routine?tab=readme-ov-file#10-implement-tests-in-our-daily-work-routine---content)
 11. [ ] 11. Using Command-Line Tools
