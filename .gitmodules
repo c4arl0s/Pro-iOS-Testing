@@ -1,6 +1,3 @@
-[submodule "Pro-iOS-Testing"]
-	path = Pro-iOS-Testing
-	url = git@github.com:c4arl0s/Pro-iOS-Testing.git
 [submodule "3-Writing-tests-The-Basics"]
 	path = 3-Writing-tests-The-Basics
 	url = git@github.com:c4arl0s/3-Writing-tests-The-Basics.git
