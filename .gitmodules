@@ -16,3 +16,6 @@
 [submodule "6-Write-Testable-Code"]
 	path = 6-Write-Testable-Code
 	url = git@github.com:c4arl0s/6-Write-Testable-Code.git
+[submodule "10-Implement-Tests-in-Our-Daily-Work-Routine"]
+	path = 10-Implement-Tests-in-Our-Daily-Work-Routine
+	url = git@github.com:c4arl0s/10-Implement-Tests-in-Our-Daily-Work-Routine.git
