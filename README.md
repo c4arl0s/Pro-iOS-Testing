@@ -13,6 +13,7 @@ Init and pull latest changes
 ```console
 git submodule update --init --recursive
 git pull --recurse-submodules
+git submodule update --remote --merge
 ```
 
 # Pro-iOS-Testing
