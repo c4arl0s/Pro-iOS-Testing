@@ -16,3 +16,9 @@
 [submodule "10-Implement-Tests-in-Our-Daily-Work-Routine"]
 	path = 10-Implement-Tests-in-Our-Daily-Work-Routine
 	url = git@github.com:c4arl0s/10-Implement-Tests-in-Our-Daily-Work-Routine.git
+[submodule "4-Writing-Tests-Advanced-Techniques"]
+	path = 4-Writing-Tests-Advanced-Techniques
+	url = git@github.com:c4arl0s/4-Writing-Tests-Advanced-Techniques.git
+[submodule "5-Integration-Tests"]
+	path = 5-Integration-Tests
+	url = git@github.com:c4arl0s/5-Integration-Tests.git
