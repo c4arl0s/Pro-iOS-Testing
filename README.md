@@ -26,7 +26,7 @@ Project to learn and implement unit and UI testing over an iOS App.
 4. [x] [4. Writing Tests - Advanced Techniques](https://github.com/c4arl0s/4-Writing-Tests-Advanced-Techniques?tab=readme-ov-file#4-writing-tests-advanced-techniques---content)
 5. [x] [5. Integration Tests](https://github.com/c4arl0s/7-Integration-Tests)
 6. [x] [6. Write Testable Code](https://github.com/c4arl0s/6-Write-Testable-Code?tab=readme-ov-file#6-write-testable-code---content)
-7. [ ] [7. User Interface Tests](https://github.com/c4arl0s/7-User-Interface-Tests?tab=readme-ov-file#7-user-interface-tests---content) This chapter is equivalent to this other lecture: [13. Testing the User Interface](https://github.com/c4arl0s/13-testing-the-user-interface?tab=readme-ov-file#13-testing-the-user-interface---content)
+7. [x] [7. User Interface Tests](https://github.com/c4arl0s/7-User-Interface-Tests?tab=readme-ov-file#7-user-interface-tests---content) This chapter is equivalent to this other lecture: [13. Testing the User Interface](https://github.com/c4arl0s/13-testing-the-user-interface?tab=readme-ov-file#13-testing-the-user-interface---content)
 8. [ ] 8. Cover Another Aspect of your App - Performance Testing
 9. [ ] 9. Snapshot Testing
 10. [x] [10. Implement Tests in Our Daily Work Routine](https://github.com/c4arl0s/10-Implement-Tests-in-Our-Daily-Work-Routine?tab=readme-ov-file#10-implement-tests-in-our-daily-work-routine---content)
